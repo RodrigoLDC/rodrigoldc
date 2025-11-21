@@ -157,3 +157,29 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
   />
 
 </p>
+<br/><br/><br/><br/><br/><br/><br/>
+
+
+
+<br/>
+
+
+## 🎯 Objetivo Profissional
+
+
+Me especializar em **Data Science** e **Business Intelligence**, aplicando lógica, estatística e tecnologia para criar soluções **inteligentes**, **úteis** e **escaláveis**.
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **[A Fuga das Profundezas](https://github.com/OliveiraAlann/a-fuga-das-profundezas)** — Jogo cooperativo criado no Construct 3   
+- **Banco de Dados “Futebol Carros” (MySQL)**  
+- **Projetos Arduino**  
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** rodrigoleite164@outlook.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/rodrigoldc/
