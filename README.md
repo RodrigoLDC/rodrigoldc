@@ -146,7 +146,7 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigoldc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rodrigoldc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200&v=2"
   />
 
 <img 
