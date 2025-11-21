@@ -11,7 +11,7 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigoldc?color=%23E1AD0E&&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rodrigoldc?color=%23E1AD0E&&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas&cache_seconds=600"
         />
     </a>
     <a href="https://github.com/rodrigoldc?tab=followers">
