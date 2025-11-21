@@ -153,7 +153,7 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoldc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoldc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1000"
   />
 
 </p>
