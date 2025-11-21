@@ -45,9 +45,9 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
 />
