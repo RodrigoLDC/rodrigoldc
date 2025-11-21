@@ -2,7 +2,7 @@
 
 **`Data Science`**
 
-Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e sou de São Paulo.Atualmente curso Ciência da Computação na UNICID. Ao longo da minha trajetória acadêmica, tive a oportunidade de desenvolver diversos projetos que fortaleceram minha base tanto no front-end quanto no back-end, além de realizar projetos práticos utilizando Arduino.
+Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e atualmente curso Ciência da Computação na UNICID. Ao longo da minha trajetória acadêmica, tive a oportunidade de desenvolver diversos projetos que fortaleceram minha base tanto no front-end quanto no back-end, além de realizar projetos práticos utilizando Arduino.
 
 Apesar dessa experiência, meu principal foco é Ciência de Dados, especialmente utilizando Python para análise, processamento e visualização de dados.
 
