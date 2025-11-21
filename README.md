@@ -173,7 +173,7 @@ Me especializar em **Data Science** e **Business Intelligence**, aplicando lógi
 
 ## 🚀 Projetos em Destaque
 
-- **[A Fuga das Profundezas](https://github.com/OliveiraAlann/a-fuga-das-profundezas)** — Jogo cooperativo criado no Construct 3   
+- **[A Fuga das Profundezas](https://github.com/RodrigoLDC/Fuga-das-Profundezas)** — Jogo cooperativo criado no Construct 3   
 - **Banco de Dados “Futebol Carros” (MySQL)**  
 - **Projetos Arduino**  
 
