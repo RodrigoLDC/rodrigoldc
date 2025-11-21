@@ -43,15 +43,6 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
-<img 
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
-/>
-
 
 <img 
     align="left" 
@@ -71,19 +62,19 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
 />
 <img 
     align="left" 
-    alt="NumPy" 
-    title="NumPy"
-    width="30px" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="20px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
 />
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
+    alt="PowerAutomate" 
+    title="PowerAutomate"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/960px-Microsoft_Power_Automate.svg.png?20240215095559" 
 />
 <img 
     align="left" 
@@ -108,6 +99,22 @@ Apesar dessa experiência, meu principal foco é Ciência de Dados, especialment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 
 <img 
