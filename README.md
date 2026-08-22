@@ -173,7 +173,7 @@ Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e
 ## 🎯 Objetivo Profissional
 
 
-Me especializar em **Data Science** e **Business Intelligence**, aplicando lógica, estatística e tecnologia para criar soluções **inteligentes**, **úteis** e **escaláveis**.
+Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvolvimento fullstack, automação e infraestrutura, com o objetivo de contribuir para soluções tecnológicas robustas e escaláveis.
 
 ---
 
