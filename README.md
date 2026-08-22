@@ -12,22 +12,6 @@ Tenho conhecimentos em JavaScript, TypeScript, Python, SQL e C, além de experi�
 
 Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e Inteligência Artificial, participando de projetos que me permitam aprofundar meus conhecimentos e desenvolver soluções que gerem impacto real.
 
-<p align="left">
-    <a href="https://github.com/rodrigoldc?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rodrigoldc?color=%23E1AD0E&&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas&cache_seconds=600"
-        />
-    </a>
-    <a href="https://github.com/rodrigoldc?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rodrigoldc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -115,25 +99,6 @@ Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigoldc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoldc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1000"
-  />
-
-</p>
 <br/><br/><br/><br/><br/><br/><br/>
 
 
