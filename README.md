@@ -95,6 +95,8 @@ Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br>
+
 ## 🎯 Objetivo Profissional
 
 
