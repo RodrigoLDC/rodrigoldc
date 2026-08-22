@@ -94,9 +94,10 @@ Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br>
----
-<br>
+
+
 ## 🎯 Objetivo Profissional
 
 Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvolvimento fullstack, automação e infraestrutura, com o objetivo de contribuir para soluções tecnológicas robustas e escaláveis.
