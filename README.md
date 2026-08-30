@@ -101,13 +101,19 @@ Learning • Building • Automating
 
 <div align="center">
 
-💻 PROGRAMMING
+### 💻 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,php&theme=dark"/>
 
 <br><br>
 
-⚙️ AUTOMATION & APIs
+### 🌐 WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php&theme=dark"/>
+
+<br><br>
+
+### ⚙️ AUTOMATION & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark"/>
 
@@ -120,13 +126,13 @@ Learning • Building • Automating
 
 <br><br>
 
-🗄️ DATABASE
+### 🗄️ DATABASE
 
 <img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/>
 
 <br><br>
 
-🐳 DEVOPS & TOOLS
+### 🐳 DEVOPS & TOOLS
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,powershell&theme=dark"/>
 
