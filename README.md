@@ -164,6 +164,104 @@ Bitrix24 PostgreSQL SQL
 </tr>
 </table>
 
+<h2 align="center">🚀 FEATURED_PROJECTS</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🏎️⚽ TechBall</h3>
+
+<p>
+Sistema de futebol de carrinhos inspirado em Rocket League,
+integrando hardware, software e comunicação em tempo real.
+</p>
+
+<p>
+<strong>Arduino • Python • Flask • MySQL • Bluetooth • HTML/CSS</strong>
+</p>
+
+<a href="https://github.com/RodrigoLDC/ProjetoArduinoRocketLeague">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🌱💧 Smart Irrigation</h3>
+
+<p>
+Sistema de irrigação automática que monitora a umidade do solo
+e controla uma bomba d'água de forma inteligente.
+</p>
+
+<p>
+<strong>Arduino • C++ • Sensors • Automation • IoT</strong>
+</p>
+
+<a href="https://github.com/RodrigoLDC/ProjetoIrriga-oArduino">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🦑 A Fuga das Profundezas</h3>
+
+<p>
+Jogo cooperativo 2D onde dois jogadores precisam trabalhar
+juntos para superar obstáculos e criaturas submarinas.
+</p>
+
+<p>
+<strong>Construct 3 • Game Development • HTML5</strong>
+</p>
+
+<a href="https://github.com/RodrigoLDC/Fuga-das-Profundezas">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://rodrigoldc.github.io/Fuga-das-Profundezas/">
+  <img src="https://img.shields.io/badge/PLAY_GAME-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🚧 NEXT PROJECT</h3>
+
+<p>
+Novos projetos de desenvolvimento, automação e Inteligência
+Artificial serão adicionados em breve.
+</p>
+
+<p>
+<strong>Automation • Backend • AI</strong>
+</p>
+
+<a href="https://github.com/RodrigoLDC?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <h2 align="center">CONTRIBUTION_MATRIX</h2>
 
 <div align="center">
