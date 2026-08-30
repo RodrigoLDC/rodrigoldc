@@ -254,31 +254,13 @@ Artificial serão adicionados em breve.
 
 </div>
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF&bg_color=05070D"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=05070D"
-  height="180"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=github-dark-blue&hide_border=true&background=05070D&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8"
-  alt="GitHub Streak"
-/>
+<img src="https://raw.githubusercontent.com/RodrigoLDC/RodrigoLDC/output/github-contribution-grid-snake-dark.svg"
+     alt="Contribution Snake"
+     width="100%"/>
 
 </div>
 
