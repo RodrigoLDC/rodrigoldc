@@ -55,21 +55,21 @@ Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e
 </td>
 <td width="45%" valign="top">
 
-🧠 PROFILE DATA
+👤 PROFILE DATA
 
-🎓 Formação
-Ciência da Computação
+🎓 Education
+Computer Science
 
-💼 Atuação
-Desenvolvimento & Automação
+💻 Focus
+Development & Automation
 
-⚙️ Especialidade prática
+🔧 Hands-on Expertise
 n8n + APIs + CRM
 
-🧠 Interesse
-IA aplicada a processos
+🤖 Interests
+AI Applied to Processes
 
-🔵 Status
+🚀 Status
 Learning • Building • Automating
 
 </td>
