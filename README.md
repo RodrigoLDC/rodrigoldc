@@ -115,11 +115,9 @@ Learning • Building • Automating
 
 ### ⚙️ AUTOMATION & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark" height="48"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
 
 &nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
 
 &nbsp;&nbsp;
 
