@@ -270,8 +270,6 @@ Artificial serão adicionados em breve.
 
 <h2 align="center">🌐 NETWORK</h2>
 
-<h2 align="center">📱 LET'S CONNECT</h2>
-
 <div align="center">
 
 <table>
