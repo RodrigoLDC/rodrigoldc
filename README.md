@@ -254,6 +254,43 @@ Artificial serão adicionados em breve.
 
 </div>
 
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoLDC&theme=github_dark"
+     width="100%"
+     alt="GitHub Profile Summary"/>
+
+<br><br>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=github-dark-blue&hide_border=true"
+     alt="GitHub Streak"/>
+
+<br><br>
+
+<!-- GitHub Stats + Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+     height="180"
+     alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+     height="180"
+     alt="Top Languages"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLDC&theme=github-compact&hide_border=true&area=true"
+     width="100%"
+     alt="Contribution Graph"/>
+
+</div>
+
+
+
 <h2 align="center">🐍 MATRIX</h2>
 
 <div align="center">
