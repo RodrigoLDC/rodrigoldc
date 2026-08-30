@@ -178,7 +178,10 @@ Bitrix24 PostgreSQL SQL
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=tokyonight&hide_border=true&background=05070D&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
+<img
+  src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=tokyonight&hide_border=true&background=05070D&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8&starting_year=2024"
+  width="70%"
+/>
 
 </div>
 
