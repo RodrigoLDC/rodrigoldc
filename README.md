@@ -16,8 +16,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/USER-RODRIGO%20LEITE-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROLE-DEVELOPER-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%26%20AI-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0F172A?style=for-the-badge"/>
