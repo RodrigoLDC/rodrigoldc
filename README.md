@@ -258,37 +258,29 @@ Artificial serão adicionados em breve.
 
 <div align="center">
 
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoLDC&theme=github_dark"
-     width="100%"
-     alt="GitHub Profile Summary"/>
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF&bg_color=05070D"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=FFFFFF&bg_color=05070D"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=github-dark-blue&hide_border=true"
-     alt="GitHub Streak"/>
-
-<br><br>
-
-<!-- GitHub Stats + Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-     height="180"
-     alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-     height="180"
-     alt="Top Languages"/>
-
-<br><br>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLDC&theme=github-compact&hide_border=true&area=true"
-     width="100%"
-     alt="Contribution Graph"/>
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=github-dark-blue&hide_border=true&background=05070D&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 
 
 <h2 align="center">🐍 MATRIX</h2>
