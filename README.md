@@ -119,10 +119,6 @@ Learning • Building • Automating
 
 &nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/bitrix24/2FC6F6" height="48" alt="Bitrix24"/>
-
 <br><br>
 
 ### 🗄️ DATABASE
