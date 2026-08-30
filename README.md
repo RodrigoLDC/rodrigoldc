@@ -270,21 +270,50 @@ Artificial serão adicionados em breve.
 
 <h2 align="center">🌐 NETWORK</h2>
 
+<h2 align="center">📱 LET'S CONNECT</h2>
+
 <div align="center">
 
-<a href="https://github.com/RodrigoLDC">
-  <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<table>
+<tr>
 
+<td align="center" width="140">
 <a href="https://www.linkedin.com/in/rodrigo-ldc/">
-  <img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="52" alt="LinkedIn"/>
+  <br>
+  <sub>Professional Network</sub>
 </a>
+</td>
 
-<a href="https://www.instagram.com/rodrigoldc_/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-05070D?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<td align="center" width="140">
+<a href="https://github.com/RodrigoLDC">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="52" alt="GitHub"/>
+  <br>
+  <sub>Code Repository</sub>
 </a>
+</td>
+
+<td align="center" width="140">
+<a href="https://www.instagram.com/rodrigoldc_/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="52" alt="Instagram"/>
+  <br>
+  <sub>Social Updates</sub>
+</a>
+</td>
+
+<td align="center" width="140">
+<a href="mailto:SEU_EMAIL">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="52" alt="Email"/>
+  <br>
+  <sub>Direct Contact</sub>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
+
 <br>
 
 <div align="center">
