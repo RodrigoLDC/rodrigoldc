@@ -172,7 +172,7 @@ Bitrix24 PostgreSQL SQL
 
 </div>
 
-<h2 align="center">🌐 SYSTEM_NETWORK</h2>
+<h2 align="center">🌐 SOCIAL</h2>
 
 <div align="center">
 
