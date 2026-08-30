@@ -166,29 +166,6 @@ Bitrix24 PostgreSQL SQL
 
 </div>
 
-<h2 align="center">🧪 CURRENT_MISSION</h2>
-
-<div align="center">
-
-╔════════════════════════════════════════════════════════════╗
-║                RODRIGO DEVELOPMENT PROTOCOL              ║
-╚════════════════════════════════════════════════════════════╝
-
-$ rodrigo --execute goals
-
-[✓] Build real-world automations
-[✓] Work with REST APIs and Webhooks
-[✓] Use Git & GitHub professionally
-[✓] Integrate PostgreSQL into workflows
-[✓] Build solutions with n8n
-[→] Improve software architecture
-[→] Deepen backend development
-[→] Explore AI integrations
-[→] Build larger production-ready projects
-[ ] Never stop learning
-
-$ system.status
-
 AUTOMATING...
 INTEGRATING...
 LEARNING...
