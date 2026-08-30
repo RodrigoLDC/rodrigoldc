@@ -254,15 +254,14 @@ Artificial serão adicionados em breve.
 
 </div>
 
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
 <div align="center">
 
-<img
-  src="./profile/streak.svg"
-  alt="GitHub Streak"
-/>
+<img src="./profile/streak.svg"
+     alt="GitHub Streak"/>
 
 </div>
-
 
 <h2 align="center">🐍 MATRIX</h2>
 
