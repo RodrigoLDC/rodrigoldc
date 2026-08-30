@@ -28,24 +28,7 @@
 
 <br>
 
-<div align="center">
-
-╔════════════════════════════════════════════════════════════╗
-║                    AUTOMATION CORE v1.0                  ║
-╠════════════════════════════════════════════════════════════╣
-║ USER         : RODRIGO LEITE                             ║
-║ CODENAME     : RODRIGOLDC                                ║
-║ ROLE         : DEVELOPMENT INTERN                        ║
-║ EDUCATION    : COMPUTER SCIENCE                          ║
-║ FOCUS        : AUTOMATION / AI / INTEGRATIONS            ║
-║ STACK        : JS / PYTHON / N8N / POSTGRESQL            ║
-║ STATUS       : ● ONLINE                                  ║
-║ MODE         : BUILDING & AUTOMATING                     ║
-╚════════════════════════════════════════════════════════════╝
-
-</div>
-
-<h2>👨‍💻 ABOUT_ME</h2>
+<h2>🤖 Rodrigo Leite</h2>
 
 <div align="center">
 
@@ -59,7 +42,7 @@
 <tr>
 <td width="55%" valign="top">
 
-🚀 Quem sou eu?
+🚀 Sobre
 
 Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e sou estudante de Ciência da Computação, com experiência prática em desenvolvimento, automação de processos e suporte de TI.
 
