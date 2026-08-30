@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:0F172A,65:2563EB,100:06B6D4&height=230&section=header&text=RODRIGO%20LEITE&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Initializing+Automation+Environment...;Connecting+APIs+%E2%9C%93;n8n+workflows+loaded+%E2%9C%93;JavaScript+%7C+Python+%7C+PostgreSQL;Building+smarter+processes...;System+Status%3A+ONLINE+%F0%9F%94%B5" alt="Typing Animation"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=RodrigoLDC&style=for-the-badge&color=2563EB&label=PROFILE+VISITS"/>
 <img src="https://img.shields.io/github/followers/RodrigoLDC?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827"/>
 <img src="https://img.shields.io/github/stars/RodrigoLDC?style=for-the-badge&logo=github&label=STARS&color=111827"/>
