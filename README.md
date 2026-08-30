@@ -82,7 +82,7 @@ Learning • Building • Automating
 
 </div>
 
-<h2 align="center">🛠️ TECH_STACK</h2>
+<h2 align="center">STACK</h2>
 
 <div align="center">
 
