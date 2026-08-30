@@ -1,118 +1,285 @@
-# 🤖 Rodrigo Leite
+<div align="center">
 
-**`Data Science`**
-
-Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e sou estudante de Ciência da Computação, com experiência prática em desenvolvimento, automação de processos e suporte de TI.
-
-Atualmente, atuo desenvolvendo e mantendo automações e integrações entre sistemas, trabalhando com JavaScript, n8n, APIs REST, PostgreSQL e ambientes Linux. Também tenho experiência com Bitrix24, criando soluções para automatização de processos, tratamento e validação de dados e integração de ferramentas.
-
-No dia a dia, participo da análise e resolução de problemas, desenvolvimento de fluxos automatizados e implementação de soluções utilizando Inteligência Artificial, APIs e ferramentas de automação para otimizar processos internos e reduzir atividades manuais.
-
-Tenho conhecimentos em JavaScript, TypeScript, Python, SQL e C, além de experiência com Git/GitHub, PostgreSQL, Docker, Postman, PowerShell, Google Apps Script e n8n.
-
-Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e Inteligência Artificial, participando de projetos que me permitam aprofundar meus conhecimentos e desenvolver soluções que gerem impacto real.
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="n8n" 
-    title="n8n"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicons.io/devicons/icons/n8n-icon.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg"
-/>
-
-<img 
-    align="left" 
-    alt="PowerAutomate" 
-    title="PowerAutomate"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/960px-Microsoft_Power_Automate.svg.png?20240215095559" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:0F172A,65:2563EB,100:06B6D4&height=230&section=header&text=RODRIGO%20LEITE&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Initializing+Automation+Environment...;Connecting+APIs+%E2%9C%93;n8n+workflows+loaded+%E2%9C%93;JavaScript+%7C+Python+%7C+PostgreSQL;Building+smarter+processes...;System+Status%3A+ONLINE+%F0%9F%94%B5" alt="Typing Animation"/>
 
-## 🎯 Objetivo Profissional
+<br><br>
 
-Estou em constante evolução, buscando aprofundar meus conhecimentos em desenvolvimento fullstack, automação e infraestrutura, com o objetivo de contribuir para soluções tecnológicas robustas e escaláveis.
+<img src="https://komarev.com/ghpvc/?username=RodrigoLDC&style=for-the-badge&color=2563EB&label=PROFILE+VISITS"/>
+<img src="https://img.shields.io/github/followers/RodrigoLDC?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827"/>
+<img src="https://img.shields.io/github/stars/RodrigoLDC?style=for-the-badge&logo=github&label=STARS&color=111827"/>
 
----
+</div>
 
-## 🚀 Projetos em Destaque
+<h2 align="center">⚡ SYSTEM.IDENTITY</h2>
 
-- **[A Fuga das Profundezas](https://github.com/RodrigoLDC/Fuga-das-Profundezas)** — Jogo cooperativo criado no Construct 3   
-- **Banco de Dados “Futebol Carros” (MySQL)**  
-- **Projetos Arduino**  
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/USER-RODRIGO%20LEITE-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-DEVELOPER-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%26%20AI-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-0F172A?style=for-the-badge"/>
 
-## 📫 Contato
+</div>
 
-📧 **E-mail:** rodrigoleite164@outlook.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/rodrigoldc/
+<br>
+
+<div align="center">
+
+╔════════════════════════════════════════════════════════════╗
+║                    AUTOMATION CORE v1.0                  ║
+╠════════════════════════════════════════════════════════════╣
+║ USER         : RODRIGO LEITE                             ║
+║ CODENAME     : RODRIGOLDC                                ║
+║ ROLE         : DEVELOPMENT INTERN                        ║
+║ EDUCATION    : COMPUTER SCIENCE                          ║
+║ FOCUS        : AUTOMATION / AI / INTEGRATIONS            ║
+║ STACK        : JS / PYTHON / N8N / POSTGRESQL            ║
+║ STATUS       : ● ONLINE                                  ║
+║ MODE         : BUILDING & AUTOMATING                     ║
+╚════════════════════════════════════════════════════════════╝
+
+</div>
+
+<h2>👨‍💻 ABOUT_ME</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%F0%9F%92%BB;Development+%2B+Automation+%E2%9A%99%EF%B8%8F;APIs%2C+AI+and+Integrations+%F0%9F%A7%A0;Turning+manual+work+into+automated+flows." alt="Typing"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+🚀 Quem sou eu?
+
+Sou estudante de Ciência da Computação e atualmente atuo como Estagiário de Desenvolvimento.
+
+No dia a dia, trabalho principalmente com automação de processos, integrações entre sistemas, APIs REST, tratamento de dados, IA e suporte técnico.
+
+Gosto de transformar tarefas repetitivas em fluxos automatizados e construir soluções que conectem sistemas, dados e pessoas.
+
+</td>
+<td width="45%" valign="top">
+
+🧠 PROFILE DATA
+
+🎓 Formação
+Ciência da Computação
+
+💼 Atuação
+Desenvolvimento & Automação
+
+⚙️ Especialidade prática
+n8n + APIs + CRM
+
+🧠 Interesse
+IA aplicada a processos
+
+🔵 Status
+Learning • Building • Automating
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+"Automação não é apenas fazer algo mais rápido. É fazer com que você nunca mais precise fazer manualmente."
+
+</div>
+
+<h2 align="center">🛠️ TECH_STACK</h2>
+
+<div align="center">
+
+💻 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c&theme=dark"/>
+
+<br><br>
+
+⚙️ AUTOMATION & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBHOOKS-INTEGRATIONS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bitrix24-CRM-2FC6F6?style=for-the-badge"/>
+
+<br><br>
+
+🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/>
+
+<br><br>
+
+🐳 DEVOPS & TOOLS
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,powershell&theme=dark"/>
+
+</div>
+
+<h2 align="center">🧩 WHAT_I_BUILD</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+⚙️ Process Automation
+
+Fluxos para reduzir tarefas manuais, validar informações, movimentar dados e automatizar processos internos.
+
+n8n JavaScript Webhooks
+
+</td>
+<td width="50%" valign="top">
+
+🔗 System Integrations
+
+Integrações entre sistemas utilizando APIs REST, autenticação, tratamento de JSON e regras de negócio.
+
+REST API Postman JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🧠 AI Workflows
+
+Aplicação de Inteligência Artificial em fluxos de automação, análise de documentos e processamento de informações.
+
+AI n8n APIs
+
+</td>
+<td width="50%" valign="top">
+
+📊 Data & CRM Automation
+
+Automações envolvendo leads, contatos, empresas, validação de dados e integração com banco de dados.
+
+Bitrix24 PostgreSQL SQL
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<h2 align="center">🧪 CURRENT_MISSION</h2>
+
+<div align="center">
+
+╔════════════════════════════════════════════════════════════╗
+║                RODRIGO DEVELOPMENT PROTOCOL              ║
+╚════════════════════════════════════════════════════════════╝
+
+$ rodrigo --execute goals
+
+[✓] Build real-world automations
+[✓] Work with REST APIs and Webhooks
+[✓] Use Git & GitHub professionally
+[✓] Integrate PostgreSQL into workflows
+[✓] Build solutions with n8n
+[→] Improve software architecture
+[→] Deepen backend development
+[→] Explore AI integrations
+[→] Build larger production-ready projects
+[ ] Never stop learning
+
+$ system.status
+
+AUTOMATING...
+INTEGRATING...
+LEARNING...
+BUILDING...
+
+</div>
+
+<h2 align="center">📊 GITHUB_ANALYTICS</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=06B6D4&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=tokyonight&hide_border=true&background=05070D&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
+
+</div>
+
+<h2 align="center">📈 ACTIVITY_GRAPH</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLDC&bg_color=05070D&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=RODRIGO%20LEITE%20-%20SYSTEM%20ACTIVITY" width="95%"/>
+
+</div>
+
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RodrigoLDC&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+
+</div>
+
+<h2 align="center">🐍 CONTRIBUTION_MATRIX</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RodrigoLDC/RodrigoLDC/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+<h2 align="center">🌐 SYSTEM_NETWORK</h2>
+
+<div align="center">
+
+<a href="https://github.com/RodrigoLDC">
+  <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-ldc/">
+  <img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Connection+established...;Automate.+Integrate.+Build.;See+you+in+the+next+commit.;System+will+continue..." alt="Footer Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:0F172A,65:2563EB,100:06B6D4&height=130&section=footer" width="100%"/>
+
+<br>
+
+<sub>⚡ Built with code • automation • curiosity</sub>
+
+</div>
