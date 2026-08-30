@@ -40,7 +40,7 @@
 <tr>
 <td width="55%" valign="top">
 
-🚀 Sobre
+🚀 PROFILE
 
 Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e sou estudante de Ciência da Computação, com experiência prática em desenvolvimento, automação de processos e suporte de TI.
 
@@ -82,7 +82,7 @@ Learning • Building • Automating
 
 </div>
 
-<h2 align="center">STACK</h2>
+<h2 align="center">🛠️ STACK</h2>
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Learning • Building • Automating
 
 </div>
 
-<h2 align="center">🧩 WHAT_I_BUILD</h2>
+<h2 align="center">⚙️ EXPERTISE</h2>
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Bitrix24 PostgreSQL SQL
 </tr>
 </table>
 
-<h2 align="center">🚀 FEATURED_PROJECTS</h2>
+<h2 align="center">🚀 PROJECT</h2>
 
 <div align="center">
 
@@ -262,7 +262,7 @@ Artificial serão adicionados em breve.
 
 </div>
 
-<h2 align="center">CONTRIBUTION_MATRIX</h2>
+<h2 align="center">🐍 MATRIX</h2>
 
 <div align="center">
 
@@ -270,7 +270,7 @@ Artificial serão adicionados em breve.
 
 </div>
 
-<h2 align="center">🌐 SOCIAL</h2>
+<h2 align="center">🌐 NETWORK</h2>
 
 <div align="center">
 
