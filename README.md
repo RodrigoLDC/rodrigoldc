@@ -254,13 +254,12 @@ Artificial serão adicionados em breve.
 
 </div>
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RodrigoLDC/RodrigoLDC/output/github-contribution-grid-snake-dark.svg"
-     alt="Contribution Snake"
-     width="100%"/>
+<img
+  src="./profile/streak.svg"
+  alt="GitHub Streak"
+/>
 
 </div>
 
