@@ -277,7 +277,9 @@ Artificial serão adicionados em breve.
 
 <td align="center" width="140">
 <a href="https://www.linkedin.com/in/rodrigo-ldc/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="52" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       height="52"
+       alt="LinkedIn"/>
   <br>
   <sub>Professional Network</sub>
 </a>
