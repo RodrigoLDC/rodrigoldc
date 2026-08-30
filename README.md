@@ -164,23 +164,7 @@ Bitrix24 PostgreSQL SQL
 </tr>
 </table>
 
-<h2 align="center">📈 ACTIVITY_GRAPH</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLDC&bg_color=05070D&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=RODRIGO%20LEITE%20-%20SYSTEM%20ACTIVITY" width="95%"/>
-
-</div>
-
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RodrigoLDC&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
-<h2 align="center">🐍 CONTRIBUTION_MATRIX</h2>
+<h2 align="center">CONTRIBUTION_MATRIX</h2>
 
 <div align="center">
 
