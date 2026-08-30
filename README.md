@@ -164,15 +164,6 @@ Bitrix24 PostgreSQL SQL
 </tr>
 </table>
 
-</div>
-
-AUTOMATING...
-INTEGRATING...
-LEARNING...
-BUILDING...
-
-</div>
-
 <h2 align="center">📊 GITHUB_ANALYTICS</h2>
 
 <div align="center">
