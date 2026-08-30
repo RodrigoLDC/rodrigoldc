@@ -164,27 +164,6 @@ Bitrix24 PostgreSQL SQL
 </tr>
 </table>
 
-<h2 align="center">📊 GITHUB_ANALYTICS</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLDC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=06B6D4&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLDC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=RodrigoLDC&theme=tokyonight&hide_border=true&background=05070D&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8&starting_year=2024"
-  width="70%"
-/>
-
-</div>
-
 <h2 align="center">📈 ACTIVITY_GRAPH</h2>
 
 <div align="center">
