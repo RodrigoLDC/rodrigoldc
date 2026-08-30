@@ -61,11 +61,15 @@
 
 🚀 Quem sou eu?
 
-Sou estudante de Ciência da Computação e atualmente atuo como Estagiário de Desenvolvimento.
+Me chamo [Rodrigo Leite](https://www.linkedin.com/in/rodrigo-ldc/), Tenho 21 anos e sou estudante de Ciência da Computação, com experiência prática em desenvolvimento, automação de processos e suporte de TI.
 
-No dia a dia, trabalho principalmente com automação de processos, integrações entre sistemas, APIs REST, tratamento de dados, IA e suporte técnico.
+Atualmente, atuo desenvolvendo e mantendo automações e integrações entre sistemas, trabalhando com JavaScript, n8n, APIs REST, PostgreSQL e ambientes Linux. Também tenho experiência com Bitrix24, criando soluções para automatização de processos, tratamento e validação de dados e integração de ferramentas.
 
-Gosto de transformar tarefas repetitivas em fluxos automatizados e construir soluções que conectem sistemas, dados e pessoas.
+No dia a dia, participo da análise e resolução de problemas, desenvolvimento de fluxos automatizados e implementação de soluções utilizando Inteligência Artificial, APIs e ferramentas de automação para otimizar processos internos e reduzir atividades manuais.
+
+Tenho conhecimentos em JavaScript, TypeScript, Python, SQL e C, além de experiência com Git/GitHub, PostgreSQL, Docker, Postman, PowerShell, Google Apps Script e n8n.
+
+Busco continuar evoluindo na área de Desenvolvimento de Software, Automação e Inteligência Artificial, participando de projetos que me permitam aprofundar meus conhecimentos e desenvolver soluções que gerem impacto real.
 
 </td>
 <td width="45%" valign="top">
