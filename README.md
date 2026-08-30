@@ -115,14 +115,15 @@ Learning • Building • Automating
 
 ### ⚙️ AUTOMATION & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postman&theme=dark" height="48"/>
 
-<br>
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/n8n-AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-APIs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBHOOKS-INTEGRATIONS-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bitrix24-CRM-2FC6F6?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/bitrix24/2FC6F6" height="48" alt="Bitrix24"/>
 
 <br><br>
 
